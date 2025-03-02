@@ -17,7 +17,7 @@
 <p align="left">
 <a href=["https://linkedin.com/in/www.linkedin.com/in/abhishek-waghmare-a518bb345" target="blank"](https://www.linkedin.com/in/abhishek-waghmare-a518bb345/)><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhishek-waghmare-a518bb345" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_abhi_2_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_abhi_2_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/abhi waghmare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abhi waghmare" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/abhiwaghmare9962" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abhi waghmare" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
