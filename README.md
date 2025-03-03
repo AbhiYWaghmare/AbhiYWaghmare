@@ -1,7 +1,11 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQF1ouF9XjCuMg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1705564895349?e=1746662400&v=beta&t=JPn-Bp_kFsJdgHSx0TQ9CaTEKPztolFcTSao6G_TqoM)
+[![MasterHead](https://blog.hyperiondev.com/wp-content/uploads/2018/10/Blog-Gif.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abhishek Waghmare</h1>
-<h3 align="center">A passionate JAVA developer from India</h3>
-<img align="right" alt="Coding" size=400 src="https://camo.githubusercontent.com/514f682a0b43a9422eee5d9e1d81ef2b7c866247575a96f1080913870d87f0e9/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3130322f3035382f6f726967696e616c2f706978656c2d6a6566662d6d61747269782d732e6769663f31353933343837323633"
+<h3 align="center">A passionate Full Stack developer from India</h3>
+
+<img align="right" alt="Coding" size=400 src="https://camo.githubusercontent.com/514f682a0b43a9422eee5d9e1d81ef2b7c866247575a96f1080913870d87f0e9/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3130322f3035382f6f726967696e616c2f706978656c2d6a6566662d6d61747269782d732e6769663f31353933343837323633">
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiywaghmare&label=Profile%20views&color=0e75b6&style=flat" alt="abhiywaghmare" /> </p>
 
@@ -9,15 +13,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack in Java**
+- 🌱 I’m currently learning **Full Stack In Java**
 
 - 📫 How to reach me **abhiwaghmare40@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abhishek-waghmare-a518bb345/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-waghmare-a518bb345/" height="30" width="40"/></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/abhishek-waghmare-a518bb345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhishek-waghmare-a518bb345" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_abhi_2_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_abhi_2_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@abhiwaghmare9962" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abhi waghmare" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@abhiwaghmare9962" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@abhiwaghmare9962" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,5 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiywaghmare&show_icons=true&locale=en" alt="abhiywaghmare" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiywaghmare&" alt="abhiywaghmare" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiYWaghmare&" alt="abhiywaghmare" /></p>
