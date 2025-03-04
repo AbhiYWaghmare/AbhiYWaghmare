@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/abhishek-waghmare-a518bb345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhishek-waghmare-a518bb345" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhishek-waghmare-a518bb345/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhishek-waghmare-a518bb345" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_abhi_2_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_abhi_2_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@abhiwaghmare9962" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@abhiwaghmare9962" height="30" width="40" /></a>
 </p>
